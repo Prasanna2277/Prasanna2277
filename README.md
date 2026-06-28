@@ -206,6 +206,6 @@ CNN image classifier for food waste categorisation — **published at IEEE SCEEC
 [![Email](https://img.shields.io/badge/prasanna.bk05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanna.bk05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-b-k/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Prasanna2277&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
