@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Prasanna B K
 
-<!--
-**Prasanna2277/Prasanna2277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech Student
+- 🤖 AI & Machine Learning Enthusiast
+- ⚖️ Law Student
+- 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Django
+- Next.js
+- React
+- TensorFlow
+- PyTorch
+- Docker
+- Git
+
+## 🌱 Currently Learning
+
+- MLOps
+- Generative AI
+- LLM Fine-tuning
+- RAG Systems
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+## 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
