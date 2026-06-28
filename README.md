@@ -26,12 +26,12 @@
 
 ## 📫 Connect with me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prasanna-b-k/)
 
 ## 📊 GitHub Stats
 
 <!-- GitHub Readme Stats -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Prasanna2277&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna2277&layout=compact)
