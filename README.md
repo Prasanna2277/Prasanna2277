@@ -15,10 +15,10 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanna-bk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-b-k/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanna.bk05@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasanna2277)
 
 </div>
 
@@ -65,7 +65,7 @@ Fully **offline** RAG system — think personal NotebookLM. Continuously learns 
 - 🤖 Watchdog-based real-time auto-ingestion — zero-touch knowledge expansion
 - 💡 Multi-document reasoning + source citations
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/PersonalGPT)
+[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=flat-square&logo=github)](https://github.com/Prasanna2277/PersonalGPT)
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,7 @@ Built a complete LLM chatbot pipeline in PyTorch — **zero APIs, zero pretraine
 - 🎯 4 decoding strategies: Greedy · Beam · Top-k · Nucleus (Top-p) Sampling
 - 💾 Checkpoint save/load · AdamW · Hot-swappable decoding at inference
 
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/NeuralChatbot)
+[![Repo](https://img.shields.io/badge/View_Repo-%23121011?style=flat-square&logo=github)](https://github.com/Prasanna2277/NeuralChatbot)
 
 </td>
 </tr>
@@ -163,12 +163,12 @@ CNN image classifier for food waste categorisation — **published at IEEE SCEEC
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanna2277&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna2277&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanna2277&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -204,7 +204,7 @@ CNN image classifier for food waste categorisation — **published at IEEE SCEEC
 ### Let's build something intelligent together.
 
 [![Email](https://img.shields.io/badge/prasanna.bk05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanna.bk05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanna-bk)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-b-k/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
